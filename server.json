@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "id": 1,
+      "id": "1",
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
@@ -9,7 +9,7 @@
       "createdAt": "2024-07-30T21:49:13.350Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "description": "Testando",
       "type": "outcome",
       "category": "Alimentação",
@@ -17,12 +17,44 @@
       "createdAt": "2024-07-28T20:50:13.350Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "description": "Ignite Rocketseat",
       "type": "outcome",
       "category": "Educação",
       "price": 1980,
       "createdAt": "2024-07-29T19:24:44.505Z"
+    },
+    {
+      "id": "f6dc",
+      "description": "Banana",
+      "price": 20,
+      "category": "comida",
+      "type": "outcome",
+      "createdAt": "2024-08-03T04:15:53.388Z"
+    },
+    {
+      "id": "7b36",
+      "description": "Carro",
+      "price": 4400,
+      "category": "Carro",
+      "type": "outcome",
+      "createdAt": "2024-08-03T04:20:08.054Z"
+    },
+    {
+      "id": "0464",
+      "description": "Pao de batata",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-08-03T04:26:50.482Z"
+    },
+    {
+      "id": "78e4",
+      "description": "Fralda",
+      "price": 20,
+      "category": "Outros",
+      "type": "outcome",
+      "createdAt": "2024-08-03T04:27:13.524Z"
     }
   ]
 }
